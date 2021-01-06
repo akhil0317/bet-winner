@@ -1,0 +1,7 @@
+.Selected {
+  height: 100%;
+  width: 100%;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+}
